@@ -11,3 +11,5 @@
 |**Phong Nguyen**   <br/> MAJOR <br/> DEGREE FOCUS <br/> SOCIAL | IMAGE |
 |:---------------------------------------------------------:|:---------------------------------------------------:|
 |**Jayleigh Alvarado**   <br/> MAJOR <br/> DEGREE FOCUS <br/> SOCIAL | IMAGE |
+|:---------------------------------------------------------:|:---------------------------------------------------:|
+|**Logain Abdelhafiz**   <br/> MAJOR <br/> DEGREE FOCUS <br/> SOCIAL | IMAGE |
