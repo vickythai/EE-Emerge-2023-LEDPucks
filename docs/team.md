@@ -2,14 +2,14 @@
 
 | | |
 |:---------------------------------------------------------:|:---------------------------------------------------:|
-|**Alex Lowe**   <br/> **Team Leader** <br/> B.S. Electrical Engineering <br/> 3rd Yr. <br/> SOCIAL | IMAGE |
+|**Alex Lowe**   <br/> **Team Leader** <br/> B.S. Electrical Engineering <br/> 3rd Year <br/> SOCIAL | IMAGE |
 |:---------------------------------------------------------:|:---------------------------------------------------:|
-|**Paul Truong**   <br/> **Team Leader** <br/> MAJOR <br/> 2nd Yr. <br/> SOCIAL | IMAGE |
+|**Paul Truong**   <br/> **Team Leader** <br/> MAJOR <br/> 2nd Year <br/> SOCIAL | IMAGE |
 |:---------------------------------------------------------:|:---------------------------------------------------:|
-|**Vicky Thai**   <br/> B.S. Electrical Engineering <br/> 3rd Yr. <br/> SOCIAL | IMAGE |
+|**Vicky Thai**   <br/> B.S. Electrical Engineering <br/> 3rd Year <br/> SOCIAL | IMAGE |
 |:---------------------------------------------------------:|:---------------------------------------------------:|
-|**Phong Nguyen**   <br/> MAJOR <br/> 3rd Yr. <br/> SOCIAL | IMAGE |
+|**Phong Nguyen**   <br/> MAJOR <br/> 3rd Year <br/> SOCIAL | IMAGE |
 |:---------------------------------------------------------:|:---------------------------------------------------:|
-|**Jayleigh Alvarado**   <br/> MAJOR <br/> 3rd Yr. <br/> SOCIAL | IMAGE |
+|**Jayleigh Alvarado**   <br/> MAJOR <br/> 3rd Year <br/> SOCIAL | IMAGE |
 |:---------------------------------------------------------:|:---------------------------------------------------:|
-|**Logain Abdelhafiz**   <br/> MAJOR <br/> 3rd Yr. <br/> SOCIAL | IMAGE |
+|**Logain Abdelhafiz**   <br/> MAJOR <br/> 3rd Year <br/> SOCIAL | IMAGE |
