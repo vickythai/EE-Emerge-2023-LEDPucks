@@ -1,2 +1,2 @@
 # Mechanical Design
-![Puck Model](/assets/puck_model.png)
+![Puck Model](/pictures/puck_model.png)
