@@ -1,5 +1,11 @@
 # Team
-![Team](https://github.com/vickythai/EE-Emerge-2023-LEDPucks/blob/main/pictures/team_pic.JPG?raw=true)
+
+<div markdown="1">
+  <p align="center">
+    <img src="https://github.com/vickythai/EE-Emerge-2023-LEDPucks/blob/main/pictures/team_pic.JPG?raw=true" alt="Team" width="70%" height="70%"/>
+  </p>
+</div>
+
 | | |
 |:---------------------------------------------------------:|:---------------------------------------------------:|
 |**Alex Lowe**   <br/> **Team Leader** <br/> B.S. Electrical Engineering <br/> 3rd Year <br/> SOCIAL | IMAGE |
