@@ -2,7 +2,7 @@
 
 LED Pucks is an interactive project created by a team of UC Davis [EE-Emerge](https://ece.ucdavis.edu/ee-emerge) students. Inspired by the popular arcade game, Whack-a-mole, the project featues multiple devices that communicate over a wireless mesh network. Together, these devices form a fun and interactive game that utilizes capacitive touch sensors and colorful LED lights. The goal of the game is to tap the various pucks when their LEDs turn on in order to turn them off and accumulate the most points within a time limit. 
 
-<img src="https://github.com/vickythai/EE-Emerge-2023-LEDPucks/blob/main/pictures/completed_puck.jpg?raw=true" alt="Puck Breakdown" width="40%" height="40%"/>
+<img src="https://github.com/vickythai/EE-Emerge-2023-LEDPucks/blob/main/pictures/completed_puck.jpg?raw=true" alt="Completed Puck" width="45%" height="45%"/><img src="https://github.com/vickythai/EE-Emerge-2023-LEDPucks/blob/main/pictures/open_puck.jpg?raw=true" alt="Open Puck" width="30.55%" height="30.55%"/>
 
 # About the Project:
 
