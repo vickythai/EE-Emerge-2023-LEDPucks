@@ -13,3 +13,5 @@ A master ESP32 was programmed to start and reset the game, as well as randomize 
 
 ## Game Logic
 Each individual puck corresponds to a certain number. When the game is started, a randomizer will pick a random number and check the status of the puck correponding to that number. If the puck is active, a different puck is chosen to turn on. 
+
+<img src="https://github.com/vickythai/EE-Emerge-2023-LEDPucks/blob/main/pictures/flowchart.png?raw=true" alt="Flowchart" width="70%" height="70%"/>
